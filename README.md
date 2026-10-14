@@ -1,6 +1,8 @@
 # ocmt
 One Covariate at a Time Multiple Testing (OCMT) Use ocmt With STATA 19
 
+https://www.youtube.com/watch?v=FUmA-XTAO3o
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
